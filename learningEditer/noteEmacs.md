@@ -7,6 +7,7 @@
 - `M-c` == `Esc c`  
 
 | Key | Desc |
+| :---: | :---: |
 | `C` | `Ctrl` / `Ctl` |
 | `M` | `Meta` / `Alt` / `Edit` |
 | `C-c`| 按住 `Ctrl` 同时按住 `c` |
