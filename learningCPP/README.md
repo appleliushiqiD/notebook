@@ -5,5 +5,6 @@
 ### 内容与书籍
 
 - 综合  
-- CPP primer  
+- [CPP primer](./noteCPPPrimer.md)
+
 

@@ -5,5 +5,5 @@
 ### 内容列表
 
 - [Markdown](./noteMardown.md)  
-- [Emacs](./noteEmacs.md)  
+- [Emacs 基础](./noteEmacs.md)  
 
