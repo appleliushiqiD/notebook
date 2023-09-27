@@ -4,6 +4,6 @@
 
 ### 内容列表
 
-- [Markdown](./noteMardown.md)  
-- [Emacs 基础](./noteEmacs.md)  
-
+- [Markdown](./notes/noteMardown.md)  
+- [Emacs 基础](./notes/noteEmacs.md)  
+- [Vim 基础](./notes/noteVim.md)  
