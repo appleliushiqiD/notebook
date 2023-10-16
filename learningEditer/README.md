@@ -5,6 +5,6 @@
 ### 内容列表
 
 - [Git与GitHub](./notes/noteGitAndGithub.md)  
-- [Markdown](./notes/noteMardown.md)  
+- [Markdown](./notes/noteMarkdown.md)  
 - [Emacs 基础](./notes/noteEmacs.md)  
 - [Vim 基础](./notes/noteVim.md)  
