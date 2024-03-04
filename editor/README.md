@@ -4,7 +4,8 @@
 
 ### 内容列表
 
-- [Git与GitHub](./notes/noteGitAndGithub.md)  
-- [Markdown](./notes/noteMardown.md)  
-- [Emacs 基础](./notes/noteEmacs.md)  
-- [Vim 基础](./notes/noteVim.md)  
+- [Git与GitHub](./gitAndGithub.md)  
+- [Markdown](./mardown.md)  
+- [Emacs 基础](./emacs.md)  
+- [Vim 基础](./vim.md)  
+

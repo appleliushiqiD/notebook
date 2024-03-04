@@ -8,6 +8,8 @@
 
 ### 内容
 
-- [计算机网络](./learningComputerNetwork)  
-- [编程语言CPP](./learningCPP)  
-- [编辑器](./learningEditer)  
+- [计算机网络](./computerNetwork)  
+- [编程语言](./program)  
+- [编辑器](./editor)  
+
+

@@ -5,7 +5,7 @@
 ### 内容与书籍
 
 - 综合  
-- [计算机网络：自顶向下方法](./notes/noteBOOKComputerNetwork.md)  
+- [计算机网络：自顶向下方法](./book_computerNetwork.md)  
 
 ### 示例与实践
 
